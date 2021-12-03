@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/post01.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -14,6 +14,9 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+"C:\Users\golet\UPENN\MUSA_508\portfolio\images\post01.png"
+
 
 ---
 
