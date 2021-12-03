@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Thesis 1](/sample_page)
 <img src="images/post01.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Aggregation](/sample_page)
+<img src="images/post02.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Unit](/sample_page)
+<img src="images/post03.png?raw=true"/>
 
 
 ---
